@@ -191,7 +191,8 @@
         },
         "DEPLOYER": {
             "description": "enter your name here",
-            "required": false
+            "required": false,
+            "value": "Rafi"
         },
         "BOT_NAME": {
             "description": "heading for .list command reply",
