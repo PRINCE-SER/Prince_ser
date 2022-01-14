@@ -199,7 +199,7 @@
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "NUMBER": "To Get Orginal Number Of Owner"
+            "NUMBER": "To Get Orginal Number Of Owner",
             "UPLOADING_SONG": "*Uploading*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/Lv4gYo6Ss2o```",
