@@ -1044,7 +1044,7 @@ else if (config.WORKTYPE == 'public') {
             const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:' + Config.OA_NAME + '\n' //created afnanplk, please copy this with credit..
-            + 'ORG:Amalser;\n' 
+            + 'ORG:Misshelena;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
             + 'END:VCARD'
 await message.client.sendMessage(message.jid, {displayname: "Miss Helena", vcard: vcard}, MessageType.contact);
