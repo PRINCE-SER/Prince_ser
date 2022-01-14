@@ -1039,7 +1039,18 @@ else if (config.WORKTYPE == 'public') {
             });
     }));
 
+    Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
 
+            const vcard = 'BEGIN:VCARD\n'
+            + 'VERSION:3.0\n' 
+            + 'FN:' + Config.OA_NAME + '\n' //created afnanplk, please copy this with credit..
+            + 'ORG:Amalser;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
+            + 'END:VCARD'
+await message.client.sendMessage(message.jid, {displayname: "Miss Helena", vcard: vcard}, MessageType.contact);
+
+  }));
+   
     Asena.addCommand({pattern: 'wiki ?(.*)', fromMe: false, desc: Lang.WIKI_DESC}, (async (message, match) => { 
 
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORDS,MessageType.text);    
