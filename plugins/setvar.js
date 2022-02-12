@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/fsFb0Aj.jpeg";
+    r_text[0] = "https://i.imgur.com/RUw60HF.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -18,9 +18,9 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐌𝐢𝐬𝐬 𝐇𝐞𝐥𝐞𝐧𝐚 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 I am prince ser public bot.
   
-*ẉa.me/➳Setvar*
+*ẉa.me/➳Setvar
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
 
@@ -90,7 +90,7 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using 𝐌𝐢𝐬𝐬 𝐇𝐞𝐥𝐞𝐧𝐚 bot ❣️*
+     *happy using Prince ser bot ❣️*
 
 
 
