@@ -60,7 +60,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.m
         if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['Hi','spirit','Prince','Xxx','Vazha','Umbi','song','Sed','prince','Power','Poda','Pinne','photo','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn']
+const array = ['spirit','Prince','Xxx','Vazha','Umbi','song','Sed','prince','Power','Poda','Pinne','photo','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
