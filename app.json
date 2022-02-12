@@ -200,7 +200,7 @@
             "value": "•━━━━╼⤏𝐏𝐫𝐢𝐧𝐜𝐞 𝐬𝐞𝐫⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Helena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "prince ser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
