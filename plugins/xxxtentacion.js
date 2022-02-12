@@ -1,7 +1,7 @@
-/*Copyright (C) 2021 Ameen-Rafi.
+/*Copyright (C) 2021 spirit-prince.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Ameen Ser-Rafi Ser */
+Spirit Ser-Prince Ser */
 
 
 const Asena = require('../events');
@@ -55,7 +55,7 @@ var i = Math.floor(15*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝐌𝐚𝐝𝐞 Pʀɪɴᴄᴇ 𝐀𝐧𝐝 Sᴘɪʀɪᴛ'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Mᴀᴅᴇ Bʏ Pʀɪɴᴄʀ ᴀɴᴅ Sᴘɪʀɪᴛ sᴇʀ'})
 
     }));
 
@@ -104,7 +104,7 @@ r_text[15] = "https://telegra.ph/file/00a4732edf86b425ecdea.jpg";
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝐌𝐚𝐝𝐞 𝐁𝐲 Pʀɪɴᴄᴇ 𝐀𝐧𝐝 Sᴘɪʀɪᴛ'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Mᴀᴅᴇ Bʏ Pʀɪɴᴄʀ ᴀɴᴅ Sᴘɪʀɪᴛ sᴇʀ'})
 
     }));
 
