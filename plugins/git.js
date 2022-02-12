@@ -1,47 +1,28 @@
-const asena = require('../events');
+const Asena = require('../events');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const axios = require('axios');
 
-const {MessageType} = require('@adiwajshing/baileys');
+const Language = require('../language');
+const Lang = Language.getString('wallpaper');
 
-const GM = "it sends bot deploying link"
+Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-const GN = "it sends bot deploying link"
+    var skl = await axios.get("https://i.imgur.com/pjKI7O7.jpeg", { responseType: 'arraybuffer' })
 
-const Config = require('../config');
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*💖𝐑𝐄𝐁𝐄𝐋 𝑺𝑬𝑹 𝑩𝑶𝑻☜︎︎︎✌︎*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/918547062392
 
-if (Config.WORKTYPE == 'private') {
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : 💝ᴘʀɪɴᴄᴇ Sᴇʀ Bᴏᴛ ➪ ᴘʀɪɴᴄᴇ»:-sᴘɪʀɪᴛ ᴍᴜʜᴀᴍᴍᴇᴅ
 
-asena.addCommand({pattern: 'git', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+ʀᴇʙᴇʟ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
 
-    var r_text = new Array ();
+Gɪᴛʜᴜʙ ʟɪɴᴋ: https://github.com/PRINCE-SER/prince_ser
 
-    r_text[0] = "*https://github.com/Luciferking1/Miss-Helenaa*"; 
- 
-    var i = Math.floor(1*Math.random())
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ : https://github.com/PRINCE-SER/prince_ser/tree/master/uploads
 
-    await message.client.sendMessage(
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/PRINCE-SER/Prince_ser/tree/master/Amalser
 
-        message.jid,(r_text[i]), MessageType.text);
+💝ᴘʀɪɴᴄᴇ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ ʀᴇʙᴇʟ ᴘʀɪɴᴄʀ ᴀɴᴅ sᴘɪʀɪᴛ 💝
+`}) 
 
-    }));
-    
-
-    }
-
-    if (Config.WORKTYPE == 'public') {
-
-        asena.addCommand({pattern: 'git', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
-
-            var r_text = new Array ();
-
-                 r_text[0] = "*https://github.com/Luciferking1/miss-helena*"; 
-
-                     var i = Math.floor(1*Math.random())
-
-                         await message.client.sendMessage(
-
-                               message.jid,(r_text[i]), MessageType.text);
-
-    }));
-    
-
-   }
+}));
