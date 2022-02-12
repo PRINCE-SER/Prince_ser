@@ -60,7 +60,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.m
         if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['Hi','spirit']
+const array = ['Hi','spirit','Prince']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -96,7 +96,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/menti
 await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/.mp3'), MessageType.audio, { mimetype: Mimetype.mpAudio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['Hi','spirit']
+const array = ['Hi','spirit','Prince']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
