@@ -10,7 +10,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     var skl = await axios.get("https://i.imgur.com/pjKI7O7.jpeg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*💖𝐑𝐄𝐁𝐄𝐋 𝑺𝑬𝑹 𝑩𝑶𝑻☜︎︎︎✌︎*
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/918547062392
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/918590565968
+
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917994093863
 
 Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : 💝ᴘʀɪɴᴄᴇ Sᴇʀ Bᴏᴛ ➪ ᴘʀɪɴᴄᴇ»:-sᴘɪʀɪᴛ ᴍᴜʜᴀᴍᴍᴇᴅ
 
