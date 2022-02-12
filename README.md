@@ -36,7 +36,7 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP💝
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KMSPlRlT/Prince-ser-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KMSPlRlT/Prince-ser-QR)
   
 
 
