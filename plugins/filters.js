@@ -121,10 +121,10 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '919605741366@s.whatsapp.net') {
+    if (!!message.mention && message.mention[0] == '918590565968@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
- if (!!message.mention && message.mention[0] == '917994909899@s.whatsapp.net') {
+ if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/ameenmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
