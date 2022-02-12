@@ -9,7 +9,7 @@ Asena.addCommand({pattern: 'song', fromMe: false,dontAddCommandList: true}, (asy
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
 r_text[1] = "princeye tholpikkaan ningalkavilla. Jeevitathil princene tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
 r_text[2] = "prince ser says i love you 😘";
-r_text[3] = "Heleneyude yudhangal Company Kanan Povunnatheyuloo";
+r_text[3] = "princende yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
 r_text[5] = "ennikk korch rest theroo...🥵🥵";
 r_text[6] = "prince ser\ningane ethra ethra paerugal aan alle enikk..😂🤣";
