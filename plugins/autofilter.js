@@ -10,7 +10,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-asena.addCommand({pattern: 'rafi', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+asena.addCommand({pattern: 'prince', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -24,7 +24,7 @@ asena.addCommand({pattern: 'rafi', fromMe: true, deleteCommand: true, desc: GM,}
 
     }));
 
-asena.addCommand({pattern: 'ameen', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+asena.addCommand({pattern: 'prince', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
 
@@ -42,7 +42,7 @@ asena.addCommand({pattern: 'ameen', fromMe: true, deleteCommand: true, desc: GN,
 
     if (Config.WORKTYPE == 'public') {
 
-        asena.addCommand({pattern: 'rafi', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
+        asena.addCommand({pattern: 'prince', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
             var r_text = new Array ();
 
@@ -56,7 +56,7 @@ asena.addCommand({pattern: 'ameen', fromMe: true, deleteCommand: true, desc: GN,
 
             }));
 
-        asena.addCommand({pattern: 'ameen', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
+        asena.addCommand({pattern: 'spirit', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
                 var r_text = new Array ();
 
@@ -70,7 +70,7 @@ asena.addCommand({pattern: 'ameen', fromMe: true, deleteCommand: true, desc: GN,
 
                 }));    
 
-                asena.addCommand({pattern: 'helena', fromMe: true, deleteCommand: true,dontAddCommandList: true }, (async (message, match) => {
+                asena.addCommand({pattern: 'prince ser', fromMe: true, deleteCommand: true,dontAddCommandList: true }, (async (message, match) => {
 
                     var r_text = new Array ();
 
