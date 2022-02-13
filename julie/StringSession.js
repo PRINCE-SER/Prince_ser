@@ -46,7 +46,7 @@ class StringSession {
 
     createStringSession(dict) {
 
-        return 'PRINC* + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'prince' + Buffer.from(JSON.stringify(dict)).toString('base64');
 
     }
 
