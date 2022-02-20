@@ -26,11 +26,11 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
     const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: 'I Am Fine 🥰  \n\n\nOk Boshh😌😂'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: 'I am ok 🙂 \n\n\nOk Boss 😌😂'}, type: 1},
 
-        {buttonId: 'id2', buttonText: {displayText: 'Ooh Pettenn Onn Fear Aayi😐   \n\n\nFear Aavanda Ithokke Ente Oorooo Kalikal Allee🤭🌚'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: 'njan fear ayi 😁   \n\n\nnjan fear ayi monwu njan ninde fan ayi 🤭🌚'}, type: 1},
 
-        {buttonId: 'id3', buttonText: {displayText: 'Hii    \n\n\nAnthadaa🐦'}, type: 1}
+        {buttonId: 'id3', buttonText: {displayText: 'Hlo    \n\n\nchugan thanne🐦'}, type: 1}
 
       ]
 
@@ -38,9 +38,9 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
       const buttonMessage = {
 
-          contentText: "Hi Enthokke Und Bheei Chugam Thanne Allee? 😆",
+          contentText: "HLO Bhai anna arpadi?🤭 Chugan thanne alle? 😁",
 
-          footerText: 'owner prince,spirit ©',
+          footerText: 'Pʀɪɴᴄᴇ & Sᴘɪʀɪᴛ ⌫',
 
           buttons: buttons,
 
