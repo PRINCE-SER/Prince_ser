@@ -214,24 +214,24 @@ var succ_on = ''
 var succ_off = ''
 if (conf.LANG == 'TR') {
     _dsc = 'Tam fonksiyonel helena özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
-    already_on = 'prince yapay zekası halihazırda tüm fonksiyonları etkin.'
-    already_off = 'prince yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
+    already_on = 'prince ser yapay zekası halihazırda tüm fonksiyonları etkin.'
+    already_off = 'prince ser yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
     succ_on = 'prince, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
     succ_off = 'prince, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Turns on AI powered chatbot on to your account!'
-    already_on = 'prince chatbot is already on.'
-    already_off = 'prince chatbot is currently turned off!.'
-    succ_on = 'prince chatbot on! Restarting to make chatbot ✅'
-    succ_off = 'prince chatbot off Restarting to make normal  ❤️'
+    already_on = 'prince ser chatbot is already on.'
+    already_off = 'prince ser chatbot is currently turned off!.'
+    succ_on = 'prince ser chatbot on! Restarting to make chatbot ✅'
+    succ_off = 'prince ser chatbot off Restarting to make normal  ❤️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ Helena chatbot സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
     already_on = 'കൃത്രിമബുദ്ധി ഇതിനകം പൂർണ്ണമായി പ്രവർത്തിക്കുന്നു.'
     already_off = 'AI നിലവിൽ സെമി-ഫംഗ്ഷണൽ ആണ്.'
-    succ_on = 'Helena പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായി തുറന്നു! കുറച്ച് കാത്തിരിക്കൂ! ✅'
-    succ_off = 'Helena സെമി-ഫങ്ഷണൽ ആയി സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
+    succ_on = 'prince ser പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായി തുറന്നു! കുറച്ച് കാത്തിരിക്കൂ! ✅'
+    succ_off = 'prince ser സെമി-ഫങ്ഷണൽ ആയി സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 
 New.addCommand({ pattern: 'helena ?(.*)', desc: _dsc, fromMe: true,dontAddCommandList: true, usage: '.amalser on / off' }, (async (message, match) => {
