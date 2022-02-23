@@ -1,6 +1,6 @@
 {
     "name": "Prince ser ",
-    "description": "Prince ser is the Modified Version of WhatsAsena, Made By prince with Baileys.",
+    "description": "Prince ser is the Modified Version of WhatsAsena, Made By SarandevSER with Baileys.",
     "logo": "https://i.imgur.com/CtN47m8.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/PRINCE-SER/Prince_ser",
@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "Password is afamk type it in here. Password afamk എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
+            "description": "Password is Prince type it in here. Password prince എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
             "required": true
         },
         "LANGUAGE": {
