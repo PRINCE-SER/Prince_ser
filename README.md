@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/PRINCE-SER-PRINCE-SER">prince-ser
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-SER/Prince_ser.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTbot/Prince_ser-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SarandevSER/prince-ser-QR)
   
 ### The Hard Method
 ```js
