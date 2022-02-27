@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/PRINCE-SER-PRINCE-SER">prince-ser
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/spirit_ser/)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/_its_me_prince_ser/)
 
   ### Simple Method
   
