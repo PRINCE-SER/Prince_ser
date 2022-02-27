@@ -58,9 +58,9 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/Bot
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/Spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['spirit','Prince','Xxx','Vazha','Umbi','Song','Sed','Name','hi','Sarasu','single','tts','Oo','https','Good night','menu','Lub','Oii','prince','Umma','Hai','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','alive','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn','Hi','Bot']
+const array = ['spirit','Prince','Xxx','Vazha','Umbi','Song','Sed','Name','hi','Sarasu','single','tts','Oo','https','Good night','menu','Lub','Oii','prince','Umma','Hai','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','alive','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn','Hi','Bot','Spirit']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
