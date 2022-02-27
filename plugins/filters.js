@@ -60,7 +60,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.m
         if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/Spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['spirit','Prince','Xxx','Vazha','Umbi','Song','Sed','Name','hi','Sarasu','Pottan','single','tts','Oo','https','Good night','menu','Lub','Oii','prince','Umma','Hai','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','alive','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn','Hi','Bot','Spirit']
+const array = ['spirit','Prince','Xxx','Vazha','Umbi','Song','Sed','Name','hi','Sarasu','Pottan','Indro','single','tts','Oo','https','Good night','menu','Lub','Oii','prince','Umma','Hai','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','alive','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn','Hi','Bot','Spirit']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -96,7 +96,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/menti
 await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/.mp3'), MessageType.audio, { mimetype: Mimetype.mpAudio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['Hi','spirit','Prince','Xxx','Vazha','Umbi','Lub','alive','Sarasu','Name','Pottan','hi','Oo','tts','single','Good night','menu','https','Song','Oii','Umma','Hai','Sed','prince','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn']
+const array = ['Hi','spirit','Prince','Xxx','Vazha','Umbi','Lub','alive','Sarasu','Name','Pottan','Indro','hi','Oo','tts','single','Good night','menu','https','Song','Oii','Umma','Hai','Sed','prince','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -128,7 +128,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_stickers
 await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_stickers/spirit.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
-const array = ['Hi','spirit','alive','Prince','ayin','Mm','song','love','git','single','Uff','prince']
+const array = ['Hi','spirit','alive','Prince','ayin','Mm','song','love','git','single','Indro','Uff','prince']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
