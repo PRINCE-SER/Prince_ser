@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/p4yFWhh.png>
+<img src=https://i.imgur.com/NYS79Re.png>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗣𝗥𝗜𝗡𝗖𝗘+𝗔𝗡𝗗+𝗦𝗣𝗜𝗥𝗜𝗧;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
