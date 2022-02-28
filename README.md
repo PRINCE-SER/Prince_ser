@@ -19,7 +19,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/PRINCE-SER-PRINCE-SER">prince-ser</a> to make it public
+𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗣𝗥𝗜𝗡𝗖𝗘 𝗔𝗡𝗗 𝗦𝗣𝗜𝗥𝗜𝗧💞
     <br>
        | © |
         Reserved |
