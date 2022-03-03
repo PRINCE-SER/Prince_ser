@@ -38,7 +38,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
       const buttonMessage = {
 
-          contentText: "HLO Bhai anna arpadi?🤭 Chugan thanne alle? 😁",
+          contentText: "HLO Bhai anna parpadi?🤭 Chugan thanne alle? 😁",
 
           footerText: 'Pʀɪɴᴄᴇ & Sᴘɪʀɪᴛ ⌫',
 
