@@ -32,7 +32,7 @@
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/_its_me_prince_ser/)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/muzzu_on_insta/)
 
   ### Simple Method
   
