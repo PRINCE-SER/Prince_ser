@@ -40,7 +40,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
           contentText: "HLO Bhai anna parpadi?🤭 Chugan thanne alle? 😁",
 
-          footerText: 'Pʀɪɴᴄᴇ & Sᴘɪʀɪᴛ ⌫',
+          footerText: 'Pʀɪɴᴄᴇ sᴇʀ ⌫',
 
           buttons: buttons,
 
