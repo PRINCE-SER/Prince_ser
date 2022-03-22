@@ -93,7 +93,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/men
 await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '919446652312@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/.mp3'), MessageType.audio, { mimetype: Mimetype.mpAudio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('Prince_bgms/mp3'), MessageType.audio, { mimetype: Mimetype.mpAudio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
 const array = ['Hi','spirit','Prince','Xxx','Cr7','Vazha','Umbi','look','Lub','alive','Sarasu','Pm','mp4','Kanjav','Name','Intro','Pottan','Indro','hi','Oo','tts','single','Good night','menu','Hallo','https','Song','Oii','Umma','Hai','Sed','prince','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Bot','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn']
