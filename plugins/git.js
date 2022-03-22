@@ -23,7 +23,7 @@ Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/PRINCE-SER/Prince_ser/
 Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/PRINCE-SER/Prince_ser/tree/master/Prince_stickers
 
 
-💝Cʀᴇᴀᴛᴇᴅ Bʏ ᴘʀɪɴᴄᴇ sᴇʀ💝
+💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴘʀɪɴᴄᴇ sᴇʀ💝
 `}) 
 
 }));
