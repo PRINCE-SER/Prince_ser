@@ -28,7 +28,7 @@ asena.addCommand({pattern: 'prince', fromMe: true, deleteCommand: true, desc: GN
 
         var r_text = new Array ();
 
-        r_text[1] = "𝙸 𝙺𝚗𝚘𝚠 𝙷𝚎 𝙸𝚜 𝙼𝚢 𝙰𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚍";
+        r_text[1] = "𝙞 𝙠𝙣𝙤𝙬 𝙝𝙞 𝙞𝙨 𝙢𝙮 𝙘𝙧𝙚𝙖𝙩𝙚𝙧 😽";
 
         var i = Math.floor(2*Math.random())
 
@@ -46,7 +46,7 @@ asena.addCommand({pattern: 'prince', fromMe: true, deleteCommand: true, desc: GN
 
             var r_text = new Array ();
 
-            r_text[1] = "𝙸 𝙺𝚗𝚘𝚠 𝙷𝚎 𝙸𝚜 𝙼𝚢 𝙲𝚛𝚎𝚊𝚝𝚘𝚛🥰";
+            r_text[1] = "ɪ ᴋɴᴏᴡ ʜɪ ɪs ᴍʏ ғᴀᴛʜᴇʀ 🥰";
 
             var i = Math.floor(2*Math.random())
 
@@ -56,11 +56,11 @@ asena.addCommand({pattern: 'prince', fromMe: true, deleteCommand: true, desc: GN
 
             }));
 
-        asena.addCommand({pattern: 'spirit', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
+        asena.addCommand({pattern: 'muzzu', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
                 var r_text = new Array ();
 
-                r_text[1] = "𝙸 𝙺𝚗𝚘𝚠 𝙷𝚎 𝙸𝚜 𝙼𝚢 𝙰𝚜𝚜𝚒𝚜𝚝𝚎𝚗𝚍";
+                r_text[1] = "𝙸 𝙺𝚗𝚘𝚠 𝙷𝚎 is my creater";
           
                 var i = Math.floor(2*Math.random())
 
