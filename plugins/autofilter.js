@@ -46,7 +46,7 @@ asena.addCommand({pattern: 'prince', fromMe: true, deleteCommand: true, desc: GN
 
             var r_text = new Array ();
 
-            r_text[1] = "ɪ ᴋɴᴏᴡ ʜɪ ɪs ᴍʏ ғᴀᴛʜᴇʀ 🥰";
+            r_text[1] = "ɪ ᴋɴᴏᴡ ʜᴇ ɪs ᴍʏ ғᴀᴛʜᴇʀ 🥰";
 
             var i = Math.floor(2*Math.random())
 
