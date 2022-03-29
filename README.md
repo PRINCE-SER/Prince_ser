@@ -29,6 +29,11 @@
 ## Setup
 <div align="center"> 
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+
+
+</div
 
 ## Click Instagram logo to follow this page👇
 
@@ -106,18 +111,13 @@ you can contact 👇🏻👇🏻
 
 ## Developers
   <div align="center">
-    
-  [![prince ser](https://github.com/PRINCE-SER.png?size=100)](https://github.com/SPlRlT-YT) | [![Kaztro-serv2](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/PRINCE-SER) |  [![Amal-ser](https://github.com/PRINCE-SER.png?size=100)](https://github.com/PRINCE-SER) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
-----|----|----|----
-[Prince ser](https://github.com/PRINCE-SER) | [spirit ser](https://github.com/SPlRlT-YT) | [prince ser](https://github.com/PRINCE-SER) | [AMALSER](https://github.com/Amal-ser) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+
+  [![prince ser](https://i.imgur.com/nHTDyjA.jpeg)](https://github.com/PRINCE-SER)[`Prince ser`](https://github.com/PRINCE-SER)
+----|
+   `owner , Modules, Commits, Bug Fixes, Modules, Re-Developer, Modules,  Modifiying  as   public ` 
   </div>
     
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-
-
-
-</div>
+>
     
 
 
