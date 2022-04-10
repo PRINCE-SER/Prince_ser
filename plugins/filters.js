@@ -57,7 +57,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/pri
         if (!!message.mention && message.mention[0] == Config.MENTION) {
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '919446652312@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/Spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
 const array = ['spirit','Prince','Xxx','Vazha','Umbi','Cr7','look','fan','Song','Sed','Mrng','Name','hi','Pm','mp4','Kanjav','Sarasu','owner','Intro','Pottan','Indro','single','tts','Oo','https','Good night','menu','Hallo','Lub','Oii','prince','Umma','Hai','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','alive','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn','Hi','Bot','Spirit']
