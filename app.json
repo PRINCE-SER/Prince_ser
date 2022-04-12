@@ -1,6 +1,6 @@
 {
     "name": "Prince ser ",
-    "description": "Prince ser is the Modified Version of WhatsAsena, Made By SarandevSER with Baileys.",
+    "description": "Prince ser is the Modified Version of WhatsAsena, Made By Prince.",
     "logo": "https://i.imgur.com/CtN47m8.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/PRINCE-SER/Prince_ser",
@@ -33,7 +33,7 @@
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": true,
-            "value": "Pʀɪɴᴄᴇ ᴀɴᴅ Sᴘɪʀɪᴛ💝"
+            "value": "Pʀɪɴᴄᴇ 💝"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -197,7 +197,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏𝐏𝐫𝐢𝐧𝐜𝐞 𝐬𝐞𝐫⤎╾━━━•"
+            "value": "•━━━━╼⤏Ƥʀɪղcꫀ SᴇƦ⤎╾━━━•"
         },
         "WORK_TYPE": {
             "description": "prince ser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
