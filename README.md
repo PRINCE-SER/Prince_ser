@@ -37,7 +37,7 @@
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/muzammil_.xs/)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/muza.mmi_l/)
 
   ### Simple Method
   
